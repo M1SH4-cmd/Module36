@@ -9,7 +9,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/QRect
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/QSize
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/QSizeF
- mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/QTimer
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/q20functional.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/q20iterator.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/q20memory.h
@@ -24,7 +23,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qatomic.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qatomic_cxx11.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qbasicatomic.h
- mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qbasictimer.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qbindingstorage.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qbytearray.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qbytearrayalgorithms.h
@@ -124,7 +122,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtdeprecationmarkers.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtenvironmentvariables.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtextstream.h
- mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtimer.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtmetamacros.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtnoop.h
  mdp:C:/Qt/6.8.2/mingw_64/include/QtCore/qtpreprocessorsupport.h
@@ -209,8 +206,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/bits/allocator.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/atomic_base.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/atomic_lockfree_defines.h
- mdp:C:/mingw64/include/c++/14.2.0/bits/basic_ios.h
- mdp:C:/mingw64/include/c++/14.2.0/bits/basic_ios.tcc
  mdp:C:/mingw64/include/c++/14.2.0/bits/basic_string.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/basic_string.tcc
  mdp:C:/mingw64/include/c++/14.2.0/bits/char_traits.h
@@ -232,12 +227,9 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/bits/hashtable_policy.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/invoke.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/ios_base.h
- mdp:C:/mingw64/include/c++/14.2.0/bits/istream.tcc
  mdp:C:/mingw64/include/c++/14.2.0/bits/list.tcc
  mdp:C:/mingw64/include/c++/14.2.0/bits/locale_classes.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/locale_classes.tcc
- mdp:C:/mingw64/include/c++/14.2.0/bits/locale_facets.h
- mdp:C:/mingw64/include/c++/14.2.0/bits/locale_facets.tcc
  mdp:C:/mingw64/include/c++/14.2.0/bits/localefwd.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/memory_resource.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/memoryfwd.h
@@ -245,7 +237,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/bits/nested_exception.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/new_allocator.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/node_handle.h
- mdp:C:/mingw64/include/c++/14.2.0/bits/ostream.tcc
  mdp:C:/mingw64/include/c++/14.2.0/bits/ostream_insert.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/parse_numbers.h
  mdp:C:/mingw64/include/c++/14.2.0/bits/postypes.h
@@ -309,7 +300,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/cstring
  mdp:C:/mingw64/include/c++/14.2.0/ctime
  mdp:C:/mingw64/include/c++/14.2.0/cwchar
- mdp:C:/mingw64/include/c++/14.2.0/cwctype
  mdp:C:/mingw64/include/c++/14.2.0/debug/assertions.h
  mdp:C:/mingw64/include/c++/14.2.0/debug/debug.h
  mdp:C:/mingw64/include/c++/14.2.0/exception
@@ -322,10 +312,7 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/ext/type_traits.h
  mdp:C:/mingw64/include/c++/14.2.0/functional
  mdp:C:/mingw64/include/c++/14.2.0/initializer_list
- mdp:C:/mingw64/include/c++/14.2.0/ios
  mdp:C:/mingw64/include/c++/14.2.0/iosfwd
- mdp:C:/mingw64/include/c++/14.2.0/iostream
- mdp:C:/mingw64/include/c++/14.2.0/istream
  mdp:C:/mingw64/include/c++/14.2.0/iterator
  mdp:C:/mingw64/include/c++/14.2.0/limits
  mdp:C:/mingw64/include/c++/14.2.0/list
@@ -334,7 +321,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/new
  mdp:C:/mingw64/include/c++/14.2.0/numeric
  mdp:C:/mingw64/include/c++/14.2.0/optional
- mdp:C:/mingw64/include/c++/14.2.0/ostream
  mdp:C:/mingw64/include/c++/14.2.0/pstl/execution_defs.h
  mdp:C:/mingw64/include/c++/14.2.0/pstl/glue_numeric_defs.h
  mdp:C:/mingw64/include/c++/14.2.0/ratio
@@ -368,8 +354,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h
  mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++locale.h
  mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/cpu_defines.h
- mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_base.h
- mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_inline.h
  mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/error_constants.h
  mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr-default.h
  mdp:C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr.h
@@ -415,4 +399,3 @@ C:/Users/User/Desktop/Module36/Notes/Note3/main.cpp
  mdp:C:/mingw64/x86_64-w64-mingw32/include/time.h
  mdp:C:/mingw64/x86_64-w64-mingw32/include/vadefs.h
  mdp:C:/mingw64/x86_64-w64-mingw32/include/wchar.h
- mdp:C:/mingw64/x86_64-w64-mingw32/include/wctype.h

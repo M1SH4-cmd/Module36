@@ -5,7 +5,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/Qt/6.8.2/mingw_64/include/QtCore/QRect \
   C:/Qt/6.8.2/mingw_64/include/QtCore/QSize \
   C:/Qt/6.8.2/mingw_64/include/QtCore/QSizeF \
-  C:/Qt/6.8.2/mingw_64/include/QtCore/QTimer \
   C:/Qt/6.8.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/q20iterator.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/q20memory.h \
@@ -20,7 +19,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/Qt/6.8.2/mingw_64/include/QtCore/qatomic.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qatomic_cxx11.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qbasicatomic.h \
-  C:/Qt/6.8.2/mingw_64/include/QtCore/qbasictimer.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qbindingstorage.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qbytearray.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qbytearrayalgorithms.h \
@@ -120,7 +118,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/Qt/6.8.2/mingw_64/include/QtCore/qtdeprecationmarkers.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qtenvironmentvariables.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qtextstream.h \
-  C:/Qt/6.8.2/mingw_64/include/QtCore/qtimer.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qtmetamacros.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qtnoop.h \
   C:/Qt/6.8.2/mingw_64/include/QtCore/qtpreprocessorsupport.h \
@@ -205,8 +202,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/bits/allocator.h \
   C:/mingw64/include/c++/14.2.0/bits/atomic_base.h \
   C:/mingw64/include/c++/14.2.0/bits/atomic_lockfree_defines.h \
-  C:/mingw64/include/c++/14.2.0/bits/basic_ios.h \
-  C:/mingw64/include/c++/14.2.0/bits/basic_ios.tcc \
   C:/mingw64/include/c++/14.2.0/bits/basic_string.h \
   C:/mingw64/include/c++/14.2.0/bits/basic_string.tcc \
   C:/mingw64/include/c++/14.2.0/bits/char_traits.h \
@@ -228,12 +223,9 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/bits/hashtable_policy.h \
   C:/mingw64/include/c++/14.2.0/bits/invoke.h \
   C:/mingw64/include/c++/14.2.0/bits/ios_base.h \
-  C:/mingw64/include/c++/14.2.0/bits/istream.tcc \
   C:/mingw64/include/c++/14.2.0/bits/list.tcc \
   C:/mingw64/include/c++/14.2.0/bits/locale_classes.h \
   C:/mingw64/include/c++/14.2.0/bits/locale_classes.tcc \
-  C:/mingw64/include/c++/14.2.0/bits/locale_facets.h \
-  C:/mingw64/include/c++/14.2.0/bits/locale_facets.tcc \
   C:/mingw64/include/c++/14.2.0/bits/localefwd.h \
   C:/mingw64/include/c++/14.2.0/bits/memory_resource.h \
   C:/mingw64/include/c++/14.2.0/bits/memoryfwd.h \
@@ -241,7 +233,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/bits/nested_exception.h \
   C:/mingw64/include/c++/14.2.0/bits/new_allocator.h \
   C:/mingw64/include/c++/14.2.0/bits/node_handle.h \
-  C:/mingw64/include/c++/14.2.0/bits/ostream.tcc \
   C:/mingw64/include/c++/14.2.0/bits/ostream_insert.h \
   C:/mingw64/include/c++/14.2.0/bits/parse_numbers.h \
   C:/mingw64/include/c++/14.2.0/bits/postypes.h \
@@ -305,7 +296,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/cstring \
   C:/mingw64/include/c++/14.2.0/ctime \
   C:/mingw64/include/c++/14.2.0/cwchar \
-  C:/mingw64/include/c++/14.2.0/cwctype \
   C:/mingw64/include/c++/14.2.0/debug/assertions.h \
   C:/mingw64/include/c++/14.2.0/debug/debug.h \
   C:/mingw64/include/c++/14.2.0/exception \
@@ -318,10 +308,7 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/ext/type_traits.h \
   C:/mingw64/include/c++/14.2.0/functional \
   C:/mingw64/include/c++/14.2.0/initializer_list \
-  C:/mingw64/include/c++/14.2.0/ios \
   C:/mingw64/include/c++/14.2.0/iosfwd \
-  C:/mingw64/include/c++/14.2.0/iostream \
-  C:/mingw64/include/c++/14.2.0/istream \
   C:/mingw64/include/c++/14.2.0/iterator \
   C:/mingw64/include/c++/14.2.0/limits \
   C:/mingw64/include/c++/14.2.0/list \
@@ -330,7 +317,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/new \
   C:/mingw64/include/c++/14.2.0/numeric \
   C:/mingw64/include/c++/14.2.0/optional \
-  C:/mingw64/include/c++/14.2.0/ostream \
   C:/mingw64/include/c++/14.2.0/pstl/execution_defs.h \
   C:/mingw64/include/c++/14.2.0/pstl/glue_numeric_defs.h \
   C:/mingw64/include/c++/14.2.0/ratio \
@@ -364,8 +350,6 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++config.h \
   C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/c++locale.h \
   C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/cpu_defines.h \
-  C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_base.h \
-  C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/ctype_inline.h \
   C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/error_constants.h \
   C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr-default.h \
   C:/mingw64/include/c++/14.2.0/x86_64-w64-mingw32/bits/gthr.h \
@@ -410,5 +394,4 @@ C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/Note3_autogen/inclu
   C:/mingw64/x86_64-w64-mingw32/include/sys/types.h \
   C:/mingw64/x86_64-w64-mingw32/include/time.h \
   C:/mingw64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/mingw64/x86_64-w64-mingw32/include/wchar.h \
-  C:/mingw64/x86_64-w64-mingw32/include/wctype.h
+  C:/mingw64/x86_64-w64-mingw32/include/wchar.h
