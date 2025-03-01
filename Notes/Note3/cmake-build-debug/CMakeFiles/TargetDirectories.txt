@@ -1,0 +1,5 @@
+C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/CMakeFiles/Note3.dir
+C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/CMakeFiles/Note3_autogen_timestamp_deps.dir
+C:/Users/User/Desktop/Module36/Notes/Note3/cmake-build-debug/CMakeFiles/Note3_autogen.dir

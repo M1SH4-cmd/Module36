@@ -1,0 +1,16 @@
+# ninja log v5
+3	1248	7623805314730530	Note1_autogen/timestamp	b31cecbd648b1c8a
+3	1248	7623805314730530	Note1_autogen/mocs_compilation.cpp	b31cecbd648b1c8a
+3	1248	7623805314730530	C:/Users/User/Desktop/Module36/Notes/Note1/cmake-build-debug/Note1_autogen/timestamp	b31cecbd648b1c8a
+3	1248	7623805314730530	C:/Users/User/Desktop/Module36/Notes/Note1/cmake-build-debug/Note1_autogen/mocs_compilation.cpp	b31cecbd648b1c8a
+1249	1381	7623805317125296	CMakeFiles/Note1.dir/Note1_autogen/mocs_compilation.cpp.obj	7970b5f09fb1100d
+23	1108	7623805712152124	Note1_autogen/timestamp	b31cecbd648b1c8a
+23	1108	7623805712152124	Note1_autogen/mocs_compilation.cpp	b31cecbd648b1c8a
+23	1108	7623805712152124	C:/Users/User/Desktop/Module36/Notes/Note1/cmake-build-debug/Note1_autogen/timestamp	b31cecbd648b1c8a
+23	1108	7623805712152124	C:/Users/User/Desktop/Module36/Notes/Note1/cmake-build-debug/Note1_autogen/mocs_compilation.cpp	b31cecbd648b1c8a
+9	1050	7623806354998504	Note1_autogen/timestamp	b31cecbd648b1c8a
+9	1050	7623806354998504	Note1_autogen/mocs_compilation.cpp	b31cecbd648b1c8a
+9	1050	7623806354998504	C:/Users/User/Desktop/Module36/Notes/Note1/cmake-build-debug/Note1_autogen/timestamp	b31cecbd648b1c8a
+9	1050	7623806354998504	C:/Users/User/Desktop/Module36/Notes/Note1/cmake-build-debug/Note1_autogen/mocs_compilation.cpp	b31cecbd648b1c8a
+1073	4425	7623806388729026	CMakeFiles/Note1.dir/main.cpp.obj	4810ccd62ba2f910
+4431	4755	7623806391903744	Note1.exe	56de7310ec63a345

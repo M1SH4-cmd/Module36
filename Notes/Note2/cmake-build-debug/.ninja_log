@@ -1,0 +1,26 @@
+# ninja log v5
+3	277	7624775355009059	Note2_autogen/timestamp	31126f8474280be1
+3	277	7624775355009059	Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+3	277	7624775355009059	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/timestamp	31126f8474280be1
+278	407	7624775356974023	CMakeFiles/Note2.dir/Note2_autogen/mocs_compilation.cpp.obj	117a276c95dcfae0
+282	3815	7624775391011300	CMakeFiles/Note2.dir/main.cpp.obj	fcfba313e1e7f059
+3820	4145	7624775394186505	Note2.exe	ef9e6edc2bed36fc
+3	277	7624775355009059	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+22	195	7624783429467986	Note2_autogen/timestamp	31126f8474280be1
+22	195	7624783429467986	Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+22	195	7624783429467986	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/timestamp	31126f8474280be1
+22	195	7624783429467986	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+203	3756	7624783465069679	CMakeFiles/Note2.dir/main.cpp.obj	fcfba313e1e7f059
+3757	4018	7624783467558947	Note2.exe	ef9e6edc2bed36fc
+9	164	7624787274442441	Note2_autogen/timestamp	31126f8474280be1
+9	164	7624787274442441	Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+9	164	7624787274442441	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/timestamp	31126f8474280be1
+9	164	7624787274442441	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+172	3803	7624787310814425	CMakeFiles/Note2.dir/main.cpp.obj	fcfba313e1e7f059
+3804	4030	7624787312954553	Note2.exe	ef9e6edc2bed36fc
+8	161	7624788648457427	Note2_autogen/timestamp	31126f8474280be1
+8	161	7624788648457427	Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+8	161	7624788648457427	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/timestamp	31126f8474280be1
+8	161	7624788648457427	C:/Users/User/Desktop/Module36/Notes/Note2/cmake-build-debug/Note2_autogen/mocs_compilation.cpp	31126f8474280be1
+170	3752	7624788684319385	CMakeFiles/Note2.dir/main.cpp.obj	fcfba313e1e7f059
+3752	3970	7624788686414197	Note2.exe	ef9e6edc2bed36fc
