@@ -14,12 +14,12 @@ Q_OBJECT
 public:
     ColorfulCircle(QWidget *parent) {
         setParent(parent);
-        mGreenCircle = QPixmap("GreenCircle.png");
-        mYellowCircle = QPixmap("YellowCircle.png");
-        mRedCircle = QPixmap("RedCircle.png");
+        mGreenCircle = QPixmap("green_circle.png");
+        mYellowCircle = QPixmap("yellow_circle.png");
+        mRedCircle = QPixmap("red_circle.png");
 
         if (mGreenCircle.isNull() || mYellowCircle.isNull() || mRedCircle.isNull()) {
-            std::cerr << "Failed to load circle images!" << std::endl;
+            qDebug() << "Failed to load circle images!";
             return;
         }
 
@@ -28,7 +28,7 @@ public:
     }
 
     QSize minimumSizeHint() const override {
-        return QSize(100, 100);
+        return QSize(200, 200);
     }
 
 protected:
@@ -65,18 +65,20 @@ int main(int argc, char **argv) {
 
     QWidget window;
     window.setWindowTitle("Colorful Circle");
-    window.setFixedSize(200, 250);
+    window.resize(200, 250);
 
     QVBoxLayout *layout = new QVBoxLayout(&window);
 
-    ColorfulCircle *circle = new ColorfulCircle(nullptr);
-    layout->addWidget(circle, 0, Qt::AlignCenter);
+    ColorfulCircle *circle = new ColorfulCircle(&window);
+    layout->addWidget(circle);
 
     QSlider *slider = new QSlider(Qt::Horizontal);
     slider->setRange(0, 100);
     layout->addWidget(slider);
 
-    QObject::connect(slider, &QSlider::valueChanged, [&circle](int newValue) {
+    window.setLayout(layout);
+
+    QObject::connect(slider, &QSlider::valueChanged, circle, [&circle](int newValue) {
         if (newValue < 33) {
             circle->setGreen();
         } else if (newValue < 66) {
@@ -90,5 +92,4 @@ int main(int argc, char **argv) {
 
     return app.exec();
 }
-
 #include <main.moc>

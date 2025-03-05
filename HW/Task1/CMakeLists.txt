@@ -3,11 +3,12 @@ project(Task1)
 
 set(CMAKE_PREFIX_PATH "C:/Qt/6.8.2/mingw_64/lib/cmake") #Для Windows
 
-find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
 
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
+
+find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
 
 set(SOURCES main.cpp)
 
