@@ -14,9 +14,9 @@ Q_OBJECT
 public:
     ColorfulCircle(QWidget *parent) {
         setParent(parent);
-        mGreenCircle = QPixmap("green_circle.png");
-        mYellowCircle = QPixmap("yellow_circle.png");
-        mRedCircle = QPixmap("red_circle.png");
+        mGreenCircle = QPixmap("C:\\Users\\User\\Desktop\\Module36\\HW\\Task1\\green_circle.png");
+        mYellowCircle = QPixmap("C:\\Users\\User\\Desktop\\Module36\\HW\\Task1\\yellow_circle.png");
+        mRedCircle = QPixmap("C:\\Users\\User\\Desktop\\Module36\\HW\\Task1\\red_circle.png");
 
         if (mGreenCircle.isNull() || mYellowCircle.isNull() || mRedCircle.isNull()) {
             qDebug() << "Failed to load circle images!";
