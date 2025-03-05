@@ -11,7 +11,8 @@ set(CMAKE_AUTOUIC ON)
 find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
 
 set(SOURCES main.cpp)
+qt_add_resources(RESOURCES "resources.qrc")
 
-add_executable(Task1 ${SOURCES})
+add_executable(Task1 ${SOURCES} ${RESOURCES})
 
 target_link_libraries(Task1 PRIVATE Qt6::Core Qt6::Gui Qt6::Widgets)

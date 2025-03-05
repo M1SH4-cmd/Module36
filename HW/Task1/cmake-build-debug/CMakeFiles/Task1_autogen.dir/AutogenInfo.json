@@ -259,7 +259,8 @@
 		"C:/Qt/6.8.2/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets.cmake",
 		"C:/Qt/6.8.2/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.8.2/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake",
-		"C:/Qt/6.8.2/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake"
+		"C:/Qt/6.8.2/mingw_64/lib/cmake/Qt6Widgets/Qt6WidgetsVersionlessAliasTargets.cmake",
+		"C:/Users/User/Desktop/Module36/HW/Task1/resources.qrc"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/User/Desktop/Module36/HW/Task1",
 	"DEP_FILE" : "C:/Users/User/Desktop/Module36/HW/Task1/cmake-build-debug/Task1_autogen/deps",
@@ -325,7 +326,10 @@
 	],
 	"MOC_PREDEFS_FILE" : "C:/Users/User/Desktop/Module36/HW/Task1/cmake-build-debug/Task1_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
-	"MOC_SKIP" : [],
+	"MOC_SKIP" : 
+	[
+		"C:/Users/User/Desktop/Module36/HW/Task1/cmake-build-debug/qrc_resources.cpp"
+	],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 10,
 	"PARSE_CACHE_FILE" : "C:/Users/User/Desktop/Module36/HW/Task1/cmake-build-debug/CMakeFiles/Task1_autogen.dir/ParseCache.txt",
@@ -340,7 +344,10 @@
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [],
-	"UIC_SKIP" : [],
+	"UIC_SKIP" : 
+	[
+		"C:/Users/User/Desktop/Module36/HW/Task1/cmake-build-debug/qrc_resources.cpp"
+	],
 	"UIC_UI_FILES" : [],
 	"VERBOSITY" : 0
 }
