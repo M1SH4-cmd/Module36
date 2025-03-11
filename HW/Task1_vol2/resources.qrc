@@ -1,7 +1,7 @@
 <RCC>
     <qresource prefix="/images">
-        <file>green_circle.png</file>
-        <file>red_circle.png</file>
-        <file>yellow_circle.png</file>
+        <file>res/green_circle.png</file>
+        <file>res/red_circle.png</file>
+        <file>res/yellow_circle.png</file>
     </qresource>
 </RCC>
